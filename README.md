@@ -7,4 +7,5 @@ Built with Python, scikit-learn, and Streamlit. A web app that predicts a compan
 
 
 ## Delivery Route Optimizer
-Solves the Traveling Salesman Problem using a greedy algorithm. Keeps deliveries under 140 miles for a package routing scenarios. 
+- **[Salesman Delivery Route](https://github.com/RobertSwallow/Salesman-Algorithm)**
+Solves the Traveling Salesman Problem using a greedy algorithm. Finds and continually updates a route for delivering packages. 
