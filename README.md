@@ -1,4 +1,4 @@
-## Robert Swallow - IT & Cybersecurity | B.S. Computer Science (WGU)
+## Brandon Swallow - IT & Cybersecurity | B.S. Computer Science (WGU)
 I'm passionate about Cybersecurity and Machine Learning. I love tackling new puzzles and solving complex issues. 
 
 ## Machine Learning Projects 
